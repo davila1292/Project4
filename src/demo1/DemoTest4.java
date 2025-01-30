@@ -16,10 +16,10 @@ public class DemoTest4 {
 
 		System.out.println("This is Java Too");
 		
-		String str = "This is a String variable";
+		String str1 = "This is a String variable";
 		
-		System.out.println(str);
+		System.out.println(str1);
 		
 	}
-
+	
 }
