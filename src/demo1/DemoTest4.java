@@ -6,6 +6,12 @@ public class DemoTest4 {
 		
 		System.out.println("Java");
 		
+		System.out.println("This is Java Too");
+		
+		String str = "This is a String variable";
+		
+		System.out.println(str);
+		
 	}
 
 }
